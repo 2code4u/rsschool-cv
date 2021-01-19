@@ -24,4 +24,5 @@
 ## Mostly my good example code, previous company privacy.
 
 ## The level of English is enough to understand and translate everything that I write here.
+https://github.com/2code4u/rsschool-cv/blob/main/fastEng_check.png?raw=true
 ![Dont know how to share this](https://github.com/2code4u/rsschool-cv/blob/main/fastEng_check.png?raw=true)
