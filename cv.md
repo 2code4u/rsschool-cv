@@ -4,7 +4,7 @@
 
 ## Contacts
 **E-mail**: bionio.rus@gmail.com <br>
-**TG**: @l2hot4u <br>
+**TG**: @https://t.me/l2code4u <br>
 
 ## Information
 * I liked mathematics at school, so since then I prefer to solve tasks in the most convenient and fast way.
@@ -15,13 +15,6 @@
 * I skillfully navigate in complex **control flows** with multiple data arrays.
 
 ## Skills
-* Working with git.(Pull, Push, Merge, Commit). Versioning branches. Editing git flow builds (SPA).
-* JS. Using tools from ES6. VueJS. VueX. Understanding component life hooks.
-* Webpack. A little Node code
-* **ElasticSearch** (Queries, Mapping, Filters, Analyzers, Tokenizers). **POSTman** like tools.
-* Some work in **VScode**, **PHPStorm**, **IntelliJ IDEA**
+* Better check resume
 
-## Mostly my good example code, previous company privacy.
-
-## The level of English is enough to understand and translate everything that I write here.
-![Dont know how to share this](https://github.com/2code4u/rsschool-cv/blob/main/fastEng_check.png?raw=true)
+## The level of English is А2
