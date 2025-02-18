@@ -2,19 +2,22 @@
 **Name**: Дмитрий <br>
 **Surname**: Пьянов <br>
 
+## About
+*Добрый день.
+
+*Прочёл основную деятельность вашей компании, использование данного стека удобно и потенциально для развития как специалиста.
+
+*Коммерчискую деятельность (4+ лет) ввёл на Vue и смежных с ним технологиях Router,VueX,Nuxt,Vuetify.
+
+*Занимался как обычным созданием\вёрсткой страниц и элементов, так и специфичными задачи с SEO-Meta оптимизацией сайтов,
+*настройкой линтеров в проекте (ESLint), созданием утилит преобразования одних типов файлов в другие, модификаций BFF на NodeJS,
+*помог улучшить бизнесс процессы от постановки задач до частоты релизов новых версий.
+
+*Сейчас в спокойной обстановке более глубоко и архитектурно изучаю строение IT продукта и систем,
+*а так же актуальные версии Frontend инструментов
+
+*Готов к интервью почти в любое время
+
 ## Contacts
 **E-mail**: bionio.rus@gmail.com <br>
 **TG**: @https://t.me/l2code4u <br>
-
-## Information
-* I liked mathematics at school, so since then I prefer to solve tasks in the most convenient and fast way.
-* In my previous job, I quickly studied the basic functionality of a completely new and first framework for me. Figured out the basic principles of web applications. Studied situations for using the application store, as well as the possibilities and convenience of reactive data for solving logical problems.
-* On one project we dont have any design or maket. So I single-handedly created a dynamically expanding page with reactive data filled in and calculated in real time.
-* Practiced creating a bundle and writing queries between the web-application and various databases. Mostly for **Elasticsearch** and for **Magento** (2) endpoints.
-* Included **Node** libs with **Yarn** tools.
-* I skillfully navigate in complex **control flows** with multiple data arrays.
-
-## Skills
-* Better check resume
-
-## The level of English is А2
